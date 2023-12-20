@@ -23,7 +23,7 @@ Implemented. I also making sure that the interface scroll to the bottom so you g
 
 **Sending Messages: Once in a channel, users should be able to send text messages to others the channel. When a user sends a message, their display name and the timestamp of the message should be associated with the message. All users in the channel should then see the new message (with display name and timestamp) appear on their channel page. Sending and receiving messages should NOT require reloading the page.**
 
-Implemented. I also added 4 features I like in Slack: output formating. I support *bold*, _italic_, `code`, and ```block of code```. I added a send button in order to allow to type longer messages that includes multiple line.
+Implemented. I also added 4 features I like in Slack: output formating. I support **bold**, *italic*, `code`, and ```block of code```. I added a send button in order to allow to type longer messages that includes multiple line.
 
 **Remembering the Channel: If a user is on a channel page, closes the web browser window, and goes back to your web application, your application should remember what channel the user was on previously and take the user back to that channel.**
 
